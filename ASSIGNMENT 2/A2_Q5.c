@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+int a=15;
+int b=16;
+int c=17;
+int d=18;
+printf("FIRST VARIABLE HOLDS AN INTEGER CONSTANT %d \n SECOND VARIABLE HOLDS AN INTEGER CONSTANT %d \n  THIRD VARIABLE HOLDS AN INTEGER CONSTANT %d \n FOURTH VARIABLE HOLDS AN INTEGER CONSTANT %d \n",a,b,c,d);
+return 0;
+}
